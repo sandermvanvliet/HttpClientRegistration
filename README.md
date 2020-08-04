@@ -21,3 +21,9 @@ Output is like:
 ```
 
 This'll be repeated 4 times for each type, the interesting bits are the first and last line. `HttpClientHandler` is the inner most handler and, according to docs, the one that is managed by the `IHttpClientFactory`. The first line is the typed client that either consumes `HttpClient` of the factory (look at the different types to see which).
+
+Sample of a full run can be found [here](output.txt)
+
+The short of it: _It doesn't matter how you register._
+
+However it does matter how you resolve, if you resolve a typed client and keep that in a singleton you'll keep using the same `HttpClient` and `HttpClientHandler`.

@@ -1,0 +1,142 @@
+Starting run with TestHttpClientA
+
+[08:40:44 INF] TestHttpClientA => 37251161
+[08:40:44 INF] Inner Handler Microsoft.Extensions.Http.LifetimeTrackingHttpMessageHandler => 66824994
+[08:40:44 INF] Inner Handler Microsoft.Extensions.Http.Logging.LoggingScopeHttpMessageHandler => 64554036
+[08:40:44 INF] Inner Handler http.TestHandlerA => 44115416
+[08:40:44 INF] Inner Handler Microsoft.Extensions.Http.Logging.LoggingHttpMessageHandler => 61494432
+[08:40:44 INF] Handler System.Net.Http.HttpClientHandler => 16578980
+[08:40:44 INF] Handler TestHandlerA => 44115416
+[08:40:44 INF] ServicePoint http, CurrentConnections: 0, Address http://bettermotherfuckingwebsite.com/
+[08:40:45 INF] TestHttpClientA => 41731733
+[08:40:45 INF] Inner Handler Microsoft.Extensions.Http.LifetimeTrackingHttpMessageHandler => 66824994
+[08:40:45 INF] Inner Handler Microsoft.Extensions.Http.Logging.LoggingScopeHttpMessageHandler => 64554036
+[08:40:45 INF] Inner Handler http.TestHandlerA => 44115416
+[08:40:45 INF] Inner Handler Microsoft.Extensions.Http.Logging.LoggingHttpMessageHandler => 61494432
+[08:40:45 INF] Handler System.Net.Http.HttpClientHandler => 16578980
+[08:40:45 INF] Handler TestHandlerA => 44115416
+[08:40:45 INF] ServicePoint http, CurrentConnections: 0, Address http://bettermotherfuckingwebsite.com/
+[08:40:45 INF] TestHttpClientA => 64844482
+[08:40:45 INF] Inner Handler Microsoft.Extensions.Http.LifetimeTrackingHttpMessageHandler => 66824994
+[08:40:45 INF] Inner Handler Microsoft.Extensions.Http.Logging.LoggingScopeHttpMessageHandler => 64554036
+[08:40:45 INF] Inner Handler http.TestHandlerA => 44115416
+[08:40:45 INF] Inner Handler Microsoft.Extensions.Http.Logging.LoggingHttpMessageHandler => 61494432
+[08:40:45 INF] Handler System.Net.Http.HttpClientHandler => 16578980
+[08:40:45 INF] Handler TestHandlerA => 44115416
+[08:40:45 INF] ServicePoint http, CurrentConnections: 0, Address http://bettermotherfuckingwebsite.com/
+[08:40:45 INF] TestHttpClientA => 41560081
+[08:40:45 INF] Inner Handler Microsoft.Extensions.Http.LifetimeTrackingHttpMessageHandler => 66824994
+[08:40:45 INF] Inner Handler Microsoft.Extensions.Http.Logging.LoggingScopeHttpMessageHandler => 64554036
+[08:40:45 INF] Inner Handler http.TestHandlerA => 44115416
+[08:40:45 INF] Inner Handler Microsoft.Extensions.Http.Logging.LoggingHttpMessageHandler => 61494432
+[08:40:45 INF] Handler System.Net.Http.HttpClientHandler => 16578980
+[08:40:45 INF] Handler TestHandlerA => 44115416
+[08:40:45 INF] ServicePoint http, CurrentConnections: 0, Address http://bettermotherfuckingwebsite.com/
+
+
+Starting run with TestHttpClientB
+
+[08:40:45 INF] TestHttpClientB => 10923418
+[08:40:45 INF] Inner Handler Microsoft.Extensions.Http.LifetimeTrackingHttpMessageHandler => 31201899
+[08:40:45 INF] Inner Handler Microsoft.Extensions.Http.Logging.LoggingScopeHttpMessageHandler => 12381635
+[08:40:45 INF] Inner Handler http.TestHandlerB => 44325851
+[08:40:45 INF] Inner Handler Microsoft.Extensions.Http.Logging.LoggingHttpMessageHandler => 63388340
+[08:40:45 INF] Handler System.Net.Http.HttpClientHandler => 33624151
+[08:40:45 INF] Handler TestHandlerB => 44325851
+[08:40:45 INF] ServicePoint http, CurrentConnections: 0, Address http://motherfuckingwebsite.com/
+[08:40:46 INF] TestHttpClientB => 10923418
+[08:40:46 INF] Inner Handler Microsoft.Extensions.Http.LifetimeTrackingHttpMessageHandler => 31201899
+[08:40:46 INF] Inner Handler Microsoft.Extensions.Http.Logging.LoggingScopeHttpMessageHandler => 12381635
+[08:40:46 INF] Inner Handler http.TestHandlerB => 44325851
+[08:40:46 INF] Inner Handler Microsoft.Extensions.Http.Logging.LoggingHttpMessageHandler => 63388340
+[08:40:46 INF] Handler System.Net.Http.HttpClientHandler => 33624151
+[08:40:46 INF] Handler TestHandlerB => 44325851
+[08:40:46 INF] ServicePoint http, CurrentConnections: 0, Address http://motherfuckingwebsite.com/
+[08:40:46 INF] TestHttpClientB => 10923418
+[08:40:46 INF] Inner Handler Microsoft.Extensions.Http.LifetimeTrackingHttpMessageHandler => 31201899
+[08:40:46 INF] Inner Handler Microsoft.Extensions.Http.Logging.LoggingScopeHttpMessageHandler => 12381635
+[08:40:46 INF] Inner Handler http.TestHandlerB => 44325851
+[08:40:46 INF] Inner Handler Microsoft.Extensions.Http.Logging.LoggingHttpMessageHandler => 63388340
+[08:40:46 INF] Handler System.Net.Http.HttpClientHandler => 33624151
+[08:40:46 INF] Handler TestHandlerB => 44325851
+[08:40:46 INF] ServicePoint http, CurrentConnections: 0, Address http://motherfuckingwebsite.com/
+[08:40:46 INF] TestHttpClientB => 10923418
+[08:40:46 INF] Inner Handler Microsoft.Extensions.Http.LifetimeTrackingHttpMessageHandler => 31201899
+[08:40:46 INF] Inner Handler Microsoft.Extensions.Http.Logging.LoggingScopeHttpMessageHandler => 12381635
+[08:40:46 INF] Inner Handler http.TestHandlerB => 44325851
+[08:40:46 INF] Inner Handler Microsoft.Extensions.Http.Logging.LoggingHttpMessageHandler => 63388340
+[08:40:46 INF] Handler System.Net.Http.HttpClientHandler => 33624151
+[08:40:46 INF] Handler TestHandlerB => 44325851
+[08:40:46 INF] ServicePoint http, CurrentConnections: 0, Address http://motherfuckingwebsite.com/
+
+
+Starting run with TestHttpClientC
+
+[08:40:46 INF] TestHttpClientC => 37320431
+[08:40:46 INF] Inner Handler Microsoft.Extensions.Http.LifetimeTrackingHttpMessageHandler => 339559
+[08:40:46 INF] Inner Handler Microsoft.Extensions.Http.Logging.LoggingScopeHttpMessageHandler => 3056034
+[08:40:46 INF] Inner Handler http.TestHandlerC => 27504314
+[08:40:46 INF] Inner Handler Microsoft.Extensions.Http.Logging.LoggingHttpMessageHandler => 46212239
+[08:40:46 INF] Handler System.Net.Http.HttpClientHandler => 13256970
+[08:40:46 INF] Handler TestHandlerC => 27504314
+[08:40:46 INF] ServicePoint https, CurrentConnections: 0, Address https://securemotherfuckingwebsite.com/
+[08:40:47 INF] TestHttpClientC => 5894079
+[08:40:47 INF] Inner Handler Microsoft.Extensions.Http.LifetimeTrackingHttpMessageHandler => 339559
+[08:40:47 INF] Inner Handler Microsoft.Extensions.Http.Logging.LoggingScopeHttpMessageHandler => 3056034
+[08:40:47 INF] Inner Handler http.TestHandlerC => 27504314
+[08:40:47 INF] Inner Handler Microsoft.Extensions.Http.Logging.LoggingHttpMessageHandler => 46212239
+[08:40:47 INF] Handler System.Net.Http.HttpClientHandler => 13256970
+[08:40:47 INF] Handler TestHandlerC => 27504314
+[08:40:47 INF] ServicePoint https, CurrentConnections: 0, Address https://securemotherfuckingwebsite.com/
+[08:40:47 INF] TestHttpClientC => 12905972
+[08:40:47 INF] Inner Handler Microsoft.Extensions.Http.LifetimeTrackingHttpMessageHandler => 339559
+[08:40:47 INF] Inner Handler Microsoft.Extensions.Http.Logging.LoggingScopeHttpMessageHandler => 3056034
+[08:40:47 INF] Inner Handler http.TestHandlerC => 27504314
+[08:40:47 INF] Inner Handler Microsoft.Extensions.Http.Logging.LoggingHttpMessageHandler => 46212239
+[08:40:47 INF] Handler System.Net.Http.HttpClientHandler => 13256970
+[08:40:47 INF] Handler TestHandlerC => 27504314
+[08:40:47 INF] ServicePoint https, CurrentConnections: 0, Address https://securemotherfuckingwebsite.com/
+[08:40:47 INF] TestHttpClientC => 51810644
+[08:40:47 INF] Inner Handler Microsoft.Extensions.Http.LifetimeTrackingHttpMessageHandler => 339559
+[08:40:47 INF] Inner Handler Microsoft.Extensions.Http.Logging.LoggingScopeHttpMessageHandler => 3056034
+[08:40:47 INF] Inner Handler http.TestHandlerC => 27504314
+[08:40:47 INF] Inner Handler Microsoft.Extensions.Http.Logging.LoggingHttpMessageHandler => 46212239
+[08:40:47 INF] Handler System.Net.Http.HttpClientHandler => 13256970
+[08:40:47 INF] Handler TestHandlerC => 27504314
+[08:40:47 INF] ServicePoint https, CurrentConnections: 0, Address https://securemotherfuckingwebsite.com/
+
+
+Starting run with TestHttpClientD
+
+[08:40:47 INF] TestHttpClientD => 35912612
+[08:40:47 INF] Inner Handler Microsoft.Extensions.Http.LifetimeTrackingHttpMessageHandler => 54778057
+[08:40:47 INF] Inner Handler Microsoft.Extensions.Http.Logging.LoggingScopeHttpMessageHandler => 23240469
+[08:40:47 INF] Inner Handler http.TestHandlerD => 7837633
+[08:40:47 INF] Inner Handler Microsoft.Extensions.Http.Logging.LoggingHttpMessageHandler => 3429838
+[08:40:47 INF] Handler System.Net.Http.HttpClientHandler => 30868550
+[08:40:47 INF] Handler TestHandlerD => 7837633
+[08:40:47 INF] ServicePoint http, CurrentConnections: 0, Address http://motherfuckingwebsite.com/
+[08:40:48 INF] TestHttpClientD => 9381496
+[08:40:48 INF] Inner Handler Microsoft.Extensions.Http.LifetimeTrackingHttpMessageHandler => 54778057
+[08:40:48 INF] Inner Handler Microsoft.Extensions.Http.Logging.LoggingScopeHttpMessageHandler => 23240469
+[08:40:48 INF] Inner Handler http.TestHandlerD => 7837633
+[08:40:48 INF] Inner Handler Microsoft.Extensions.Http.Logging.LoggingHttpMessageHandler => 3429838
+[08:40:48 INF] Handler System.Net.Http.HttpClientHandler => 30868550
+[08:40:48 INF] Handler TestHandlerD => 7837633
+[08:40:48 INF] ServicePoint http, CurrentConnections: 0, Address http://motherfuckingwebsite.com/
+[08:40:48 INF] TestHttpClientD => 17324607
+[08:40:48 INF] Inner Handler Microsoft.Extensions.Http.LifetimeTrackingHttpMessageHandler => 54778057
+[08:40:48 INF] Inner Handler Microsoft.Extensions.Http.Logging.LoggingScopeHttpMessageHandler => 23240469
+[08:40:48 INF] Inner Handler http.TestHandlerD => 7837633
+[08:40:48 INF] Inner Handler Microsoft.Extensions.Http.Logging.LoggingHttpMessageHandler => 3429838
+[08:40:48 INF] Handler System.Net.Http.HttpClientHandler => 30868550
+[08:40:48 INF] Handler TestHandlerD => 7837633
+[08:40:48 INF] ServicePoint http, CurrentConnections: 0, Address http://motherfuckingwebsite.com/
+[08:40:48 INF] TestHttpClientD => 21703739
+[08:40:48 INF] Inner Handler Microsoft.Extensions.Http.LifetimeTrackingHttpMessageHandler => 54778057
+[08:40:48 INF] Inner Handler Microsoft.Extensions.Http.Logging.LoggingScopeHttpMessageHandler => 23240469
+[08:40:48 INF] Inner Handler http.TestHandlerD => 7837633
+[08:40:48 INF] Inner Handler Microsoft.Extensions.Http.Logging.LoggingHttpMessageHandler => 3429838
+[08:40:48 INF] Handler System.Net.Http.HttpClientHandler => 30868550
+[08:40:48 INF] Handler TestHandlerD => 7837633
+[08:40:48 INF] ServicePoint http, CurrentConnections: 0, Address http://motherfuckingwebsite.com/
